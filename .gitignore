@@ -5,3 +5,5 @@ main.egg-info
 output
 .aiopylgtv.sqlite
 .idea
+lock
+error.log
