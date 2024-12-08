@@ -1,0 +1,7 @@
+.venv
+build
+dist
+main.egg-info
+output
+.aiopylgtv.sqlite
+.idea
